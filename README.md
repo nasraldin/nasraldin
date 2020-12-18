@@ -17,4 +17,6 @@
 
 ⚡ Fun fact: 
 
+[![Nasr Aldin's github stats](https://github-readme-stats.vercel.app/api?username=nasraldin&show_icons=true)](https://nasraldin.com)
+
 ![](https://img.devrant.com/devrant/rant/r_67823_JJszc.gif)
