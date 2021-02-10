@@ -23,4 +23,4 @@
 <br />
 ![](https://img.devrant.com/devrant/rant/r_67823_JJszc.gif)
 <br />
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nasraldin&repo=nasraldin&countColor=%237B1E7A)
+![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nasraldin&repo=nasraldin&countColor=%237B1E7A)
