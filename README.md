@@ -19,6 +19,13 @@
 
 [![Nasr Aldin's github stats](https://github-readme-stats.vercel.app/api?username=nasraldin&show_icons=true)](https://github.com/nasraldin)
 <br />
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=nasraldin&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
+<br>
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasraldin&layout=compact&hide=html)](https://github.com/nasraldin)
 <br />
 [![Nasr Aldin's website](https://img.devrant.com/devrant/rant/r_67823_JJszc.gif)](https://nasraldin.com)
