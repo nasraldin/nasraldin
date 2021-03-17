@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on oss
 
-🌱 I’m currently learning: Python, Vue.js, [![Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
+🌱 I’m currently learning: Python, Vue.js,  [Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 
 💰 Accrediations : https://www.youracclaim.com/users/nasraldin
 
