@@ -2,7 +2,6 @@
 
 ```javascript
 const nasrAldin = {
-  occupation: "Software Engineer",
   code: ["Javascript", "Typescript", "Python", "C#", "Dart"],
   askMe: ["Tech", "Cloud-based apps", "Web-based apps", "DevOps"],
   technologies: {
@@ -58,7 +57,7 @@ const nasrAldin = {
     "CQRS",
   ],
   blog: "https://nasraldin.com",
-  SocialAccounts: {
+  social: {
     linkedin: "https://www.linkedin.com/in/nasraldin",
     twitter: "https://twitter.com/_nasraldin",
     facebook: "https://facebook.com/nasr2ldin",
